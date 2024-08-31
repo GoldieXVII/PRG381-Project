@@ -1,0 +1,5 @@
+com\mycompany\milestone1\JakartaRestConfiguration.class
+com\mycompany\milestone1\RegisterServlet.class
+com\mycompany\milestone1\LoginServlet.class
+com\mycompany\milestone1\DataHandler.class
+com\mycompany\milestone1\resources\JakartaEE10Resource.class
