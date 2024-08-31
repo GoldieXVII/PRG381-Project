@@ -6,3 +6,5 @@ Jandre Serfontein
 Michael Pautz
 
 In order for the Library App database to run, please downnload Apache Derby (https://db.apache.org/derby/derby_downloads.html), and re-add the necessary JAR files to the class path of the project
+
+Please see master branch for all code
